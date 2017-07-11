@@ -1,0 +1,32 @@
+body{
+	
+	background-color:#222222;
+}
+.cabecera{
+	float:left;
+	background-color:#222222;
+}
+
+.seleccion{
+background-color:#008080;
+margin-bottom: 2%;
+margin-right: 100px;
+margin-left: 400px;
+}
+
+#datos li{
+	border-bottom: solid;
+}
+#Idioma li{
+	border-bottom: solid;
+}
+#formacion li{
+	border-bottom: solid;
+}
+#conocimientos li{
+	border-bottom: solid;
+}
+img {
+	border-radius:  15px 30px;
+	
+}
